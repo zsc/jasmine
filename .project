@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>join</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Ocaml.ocamlbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>ocaml.ocamlnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>External files/array.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/array.mli</location>
+		</link>
+		<link>
+			<name>External files/hashtbl.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/hashtbl.mli</location>
+		</link>
+		<link>
+			<name>External files/join.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/vmthreads/join.mli</location>
+		</link>
+		<link>
+			<name>External files/joinCount.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/vmthreads/joinCount.mli</location>
+		</link>
+		<link>
+			<name>External files/joinProc.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/vmthreads/joinProc.mli</location>
+		</link>
+		<link>
+			<name>External files/list.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/list.mli</location>
+		</link>
+		<link>
+			<name>External files/printf.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/printf.mli</location>
+		</link>
+		<link>
+			<name>External files/string.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/string.mli</location>
+		</link>
+		<link>
+			<name>External files/sys.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/sys.mli</location>
+		</link>
+		<link>
+			<name>External files/unix.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/jocaml/unix.mli</location>
+		</link>
+	</linkedResources>
+</projectDescription>

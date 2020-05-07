@@ -1,0 +1,6 @@
+.
+_build
+/usr/local/lib/jocaml/vmthreads
+/usr/local/lib/jocaml
+/usr/lib/ocaml
+/usr/local/lib/ocaml
